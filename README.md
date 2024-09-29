@@ -15,7 +15,7 @@
     
     量子ニューラルネットワークについて、パラメーターチューニングの手法について研究を行いました。
     
-4. [量子セルオートマトン](https://github.com/wg-quantum/2024-b-06/tree/main/QCA) と[量子ウォーク](https://github.com/wg-quantum/2024-b-06/tree/main/QW)
+4. [量子セルオートマトン](https://github.com/wg-quantum/2024-b-06/tree/main/QCA/toc.md) と[量子ウォーク](https://github.com/wg-quantum/2024-b-06/tree/main/QW/toc.md)
 
      - Qiskit1.xで初めて「1次元量子セルオートマトン」、「2次元量子セルオートマトン」を実装しました。
      - Qiskit1.xで「1次元2状態アダマールウォーク」を実装し、発展課題として、量子検索用の教材のコードも修正しました。
