@@ -11,7 +11,7 @@
 
     [「量子コンピューター初学者向けの量子コンピュータの頭の中――計算しながら理解する量子アルゴリズムの世界」](https://gihyo.jp/book/2023/978-4-297-13511-9)を輪読し、コードを Qiskit 1.x にUpdateしました。
     
-3. [量子機械学習](https://github.com/wg-quantum/2024-b-06/tree/main/QML)
+3. [量子機械学習](./QML/toc.md)
     
     量子ニューラルネットワークについて、パラメーターチューニングの手法について研究を行いました。
     
@@ -53,7 +53,7 @@ IBM、IBM ロゴは、 ⽶国やその他の国におけるInternational Busines
 ibm.com/trademarkをご覧ください。
 
 
-問合せ窓口：IBM 沼田 (kifumi@jp.ibm.com)  
+問合せ窓口：IBM 沼田 (kifumi@jp.ibm.com) 
 
 © Copyright IBM Corp. 2024
 
