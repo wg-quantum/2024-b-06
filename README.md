@@ -53,18 +53,7 @@ IBM、IBM ロゴは、 ⽶国やその他の国におけるInternational Busines
 ibm.com/trademarkをご覧ください。
 
 
+問合せ窓口：IBM 沼田 (kifumi@jp.ibm.com)  
 
+© Copyright IBM Corp. 2024
 
-# 2024-b-06
-
-- [ ] 木南さん
-- [ ] Adrianさん
-- [x] 川口さん
-- [ ] 川村さん
-- [ ] 齊部さん
-- [x] 松島さん
-- [x] 遠藤さん
-- [ ] 町田さん
-- [ ] 柏さん
-- [x] 沼田さん
-- [x] 水谷さん
