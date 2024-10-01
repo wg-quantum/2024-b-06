@@ -13,10 +13,10 @@
 [03-2 1次元量子セルオートマトン <qECA> IBM Quantum実機](./QCA_in_1dim_IBMQ.ipynb)
 
 [04-1 2次元量子セルオートマトン <Quantum Game of Life> シミュレータ](./QCA_in_2dim_sim_MPS.ipynb)  
-  + -> [量子ライフゲーム上の特徴的なパターン12種類](./patternsInTheQGoL)  
+    -> [量子ライフゲーム上の特徴的なパターン12種類](./patternsInTheQGoL)  
 
 [04-2 2次元量子セルオートマトン <Quantum Game of Life> IBM Quantum実機/ibm_runtime](./QCA_in_2dim_IBMQ_ibmRuntime.ipynb)  
-  + -> 2024年9月最新ライブラリ(qiskit_ibm_runtime)では、量子回路の深さ制限により実行不可。  
+    -> 2024年9月最新ライブラリ(qiskit_ibm_runtime)では、量子回路の深さ制限により実行不可。  
 
 [04-3 2次元量子セルオートマトン <Quantum Game of Life> IBM Quantum実機/ibm_provider](./QCA_in_2dim_IBMQ_ibmProvider.ipynb)  
-  + -> 廃止予定の旧ライブラリ(qiskit_ibm_provider)であれば実機での実行可能。  
+    -> 廃止予定の旧ライブラリ(qiskit_ibm_provider)であれば実機での実行可能。  
