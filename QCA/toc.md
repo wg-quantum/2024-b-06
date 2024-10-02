@@ -1,6 +1,7 @@
 # 量子セルオートマトン
 
-★量子セルオートマトン、および古典セルオートマトンのコードを配置しました。
+★量子セルオートマトン、および古典セルオートマトンのコードを配置しました。  
+code for the quantum cellular automaton and the classical cellular automaton  
 
 ## 目次
 
