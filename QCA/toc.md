@@ -1,7 +1,7 @@
 # 量子セルオートマトン
 
 ★量子セルオートマトン、および古典セルオートマトンのコードを配置しました。  
-code for the quantum cellular automaton and the classical cellular automaton  
+code for the Quantum Cellular Automata(QCA) and the Classical Cellular aAutomata(CCA)  
 
 ## 目次
 
