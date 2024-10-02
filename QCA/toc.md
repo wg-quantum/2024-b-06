@@ -13,7 +13,7 @@
 [03-2 1次元量子セルオートマトン <qECA> IBM Quantum実機:1D Quantum Cellular Automata IBMQ Qisit>=1.0](./QCA_in_1dim_IBMQ.ipynb)
 
 [04-1 2次元量子セルオートマトン <Quantum Game of Life> シミュレータ:2D Quantum Cellular Automata Simulator Qisit>=1.0](./QCA_in_2dim_sim_MPS.ipynb)  
-    -> [量子ライフゲーム上の特徴的なパターン12種類:12 characteristic patterns in Quantum Life Game](./patternsInTheQGoL)  
+    -> [量子ライフゲーム上の特徴的なパターン12種類:12 characteristic patterns in Quantum Game of Life](./patternsInTheQGoL)  
 
 [04-2 2次元量子セルオートマトン <Quantum Game of Life> IBM Quantum実機/ibm_runtime:2D Quantum Cellular Automata Qisit>=1.0](./QCA_in_2dim_IBMQ_ibmRuntime.ipynb)  
     -> 2024年9月最新ライブラリ(qiskit_ibm_runtime)使用。2024/9/27時点では量子回路の深さ制限により実行不可だったが、  
