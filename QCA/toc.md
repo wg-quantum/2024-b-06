@@ -17,7 +17,7 @@
 
 [04-2 2次元量子セルオートマトン <Quantum Game of Life> IBM Quantum実機/ibm_runtime:2D Quantum Cellular Automaton Qisit>=1.0](./QCA_in_2dim_IBMQ_ibmRuntime.ipynb)  
     -> 2024年9月最新ライブラリ(qiskit_ibm_runtime)使用。2024/9/27時点では量子回路の深さ制限により実行不可だったが、  
-       2024/10/2時点では5セル平方2ステップで実行可能となった。
+       2024/10/2時点では5セル平方2ステップで実行可能となった。  
     -> Using the latest library (qiskit_ibm_runtime) as of September 2024 with 5-cell square 2-step.
 
 [04-3 2次元量子セルオートマトン <Quantum Game of Life> IBM Quantum実機/ibm_provider:2D Quantum Cellular Automaton Qisit>=1.0](./QCA_in_2dim_IBMQ_ibmProvider.ipynb)  
