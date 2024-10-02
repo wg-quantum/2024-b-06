@@ -1,6 +1,7 @@
 # 量子ウォーク
 
-★量子ウォークおよび古典ランダムウォークのコードを配置しました。
+★量子ウォークおよび古典ランダムウォークのコードを配置しました。  
+code for the quantum walk and classical random walk  
 
 ## 目次
 
