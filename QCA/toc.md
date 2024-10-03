@@ -24,3 +24,7 @@ code for the Quantum Cellular Automata(QCA) and the Classical Cellular Automata(
 [04-3 2次元量子セルオートマトン <Quantum Game of Life> IBM Quantum実機/ibm_provider:2D Quantum Cellular Automata Qisit>=1.0](./QCA_in_2dim_IBMQ_ibmProvider.ipynb)  
     -> 2024年9月時点では廃止予定の旧ライブラリ(qiskit_ibm_provider)であれば実機での実行可能(3平方4ステップ)。  
     -> using the deprecated old library (qiskit_ibm_provider) with a 3-cell square 4-step.  
+
+
+
+[test] (../2024-B-06-final-report-quantum-computing.pdf)
