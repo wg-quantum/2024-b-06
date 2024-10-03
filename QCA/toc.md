@@ -1,6 +1,6 @@
 # 量子セルオートマトン
 
-★量子セルオートマトン、および古典セルオートマトンのコードを配置しました。
+★量子セルオートマトン、および古典セルオートマトンのコードを配置しました。  
   研究成果については、[報告資料](../2024-B-06-final-report-quantum-computing.pdf)をご覧ください。  
   
   code for the Quantum Cellular Automata(QCA) and the Classical Cellular Automata(CCA)  
