@@ -25,6 +25,4 @@ code for the Quantum Cellular Automata(QCA) and the Classical Cellular Automata(
     -> 2024年9月時点では廃止予定の旧ライブラリ(qiskit_ibm_provider)であれば実機での実行可能(3平方4ステップ)。  
     -> using the deprecated old library (qiskit_ibm_provider) with a 3-cell square 4-step.  
 
-
-
-[test] (../2024-B-06-final-report-quantum-computing.pdf)
+[test](../2024-B-06-final-report-quantum-computing.pdf)  
