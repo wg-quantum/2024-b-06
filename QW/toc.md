@@ -1,8 +1,10 @@
 # 量子ウォーク
 
-★量子ウォークおよび古典ランダムウォークのコードを配置しました。  
-code for the quantum walk and classical random walk  
-
+★量子ウォークおよび古典ランダムウォークについて研究しました。コードを配置します。  
+  研究成果については、[報告資料](../2024-B-06-final-report-quantum-computing.pdf)をご覧ください。  
+  
+  code for the quantum walk and classical random walk.  
+  the link to the presentation materials is available here. [presentation material](../2024-B-06-final-report-quantum-computing.pdf)  
 ## 目次
 
 [01 古典ランダムウォーク : Random Walk](./random-walk.ipynb)
