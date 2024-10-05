@@ -10,9 +10,9 @@
 
 - [量子機械学習（VQC）と古典機械学習（SVM）の比較検証結果の可視化](./adrian_vqc_src/report_vqc.ipynb)
 
-- [量子機械学習（VQC）による乳癌データの2値分類](./qml_src_saibe/02_quantum_breast_cancer.ipynb)
+- [量子機械学習（VQC）による乳癌データの2値分類](./qml_src_saibe/01_quantum_breast_cancer.ipynb)
 
-- [量子機械学習（VQC）による乳癌データの2値分類_拡張版ZFeatureMap](./qml_src_saibe/02_quantum_breast_cancer-ZFeatureMapエンタングル化.ipynb)
+- [量子機械学習（VQC）による乳癌データの2値分類_拡張版ZFeatureMap](./qml_src_saibe/02_quantum_breast_cancer_EnhancedVersionZFeatureMap.ipynb)
 
-- [量子機械学習（VQC）による乳癌データの2値分類_量子状態の角度への学習データインプット](./qml_src_saibe/02_quantum_breast_cancer-エンタングル化データセット_角度.ipynb)
+- [量子機械学習（VQC）による乳癌データの2値分類_量子状態の角度への学習データインプット](./qml_src_saibe/03_quantum_breast_cancer_AngleEmbeddedFeatureMap.ipynb)
 
